@@ -1,8 +1,7 @@
-alert(null === undefined);  // false
-alert(null == undefined);   // true
-alert(null > 0);            // false
-alert(null == 0);           // false
-alert(null >= 0);           // true
-alert(undefined > 0);       // false
-alert(undefined < 0);       // false
-alert(undefined == 0);      // false
+const greet = (name) => "Hello, "+name+"!";
+
+// Calling the greet function with the name "John"
+const greeting = greet("Sidhant");
+
+// The greeting variable will now hold the value "Hello, John!"
+console.log(greeting); // Output: "Hello, John!"
