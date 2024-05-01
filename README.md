@@ -1,1 +1,1 @@
-# My progress through Odin Project's cirriculum.
+# My progress through Odin Project's cirriculum
